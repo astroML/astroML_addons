@@ -1,6 +1,8 @@
 import os
-import numpy
-from numpy.distutils.core import setup
+import ez_setup
+ez_setup.use_setuptools()
+
+from setuptools import setup
 
 DESCRIPTION = "Performance add-ons for the astroML package"
 LONG_DESCRIPTION = open('README.rst').read()

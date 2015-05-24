@@ -1,2 +1,2 @@
 __all__ = ['periodogram']
-__version__ = '0.3-git'
+__version__ = '0.3.dev'

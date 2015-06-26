@@ -164,6 +164,7 @@ cdef _standard_lomb_scargle(np.ndarray[DTYPE_t, ndim=1, mode='c'] t,
 
         Y /= wsum
         YY /= wsum
+        YY -= Y * Y
         YCtau /= wsum
         YStau /= wsum
         CCtau /= wsum

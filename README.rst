@@ -72,7 +72,7 @@ installation.  It can be installed using::
 
 To install from source, use::
 
-  python setup_addons.py install
+  python setup.py install
 
 You can specify an arbitrary directory for installation using::
 

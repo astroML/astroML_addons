@@ -1,7 +1,7 @@
 .. -*- mode: rst -*-
 
-**Repository is archived. Please note that the content has been moved upstream, 
-and merged into [astropy](https://github.com/astropy/astropy)!**
+**Repository is archived.** Please note that the content has been moved upstream, 
+and merged into `astropy <https://github.com/astropy/astropy>`_.
 
 ==============
 AstroML addons
